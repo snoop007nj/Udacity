@@ -1,5 +1,5 @@
 /* add your CSS here */
-#facts {
+.facts {
 	font-style: italic;
 }
 
@@ -13,6 +13,7 @@
 	border-style: solid;
     border-width: 1px;
     padding: 1em;
+    width: 300px;
 }
 
 span {
@@ -27,4 +28,9 @@ ul {
 img {
 	padding-bottom: 1em;
 	width: 300px;
+}
+
+h1 {
+	padding-bottom: 0.5em;
+	padding-top: 0em;
 }
